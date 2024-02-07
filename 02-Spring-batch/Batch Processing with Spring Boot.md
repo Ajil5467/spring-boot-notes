@@ -67,7 +67,7 @@
 
 ### Implementing Spring Batch: A Step-by-Step Guide
 
-![diagram](C:\Users\ajil.tu@springfive.com\Downloads\diagram.png)
+![diagram](..\Images\Implementing_Spring_Batch.png)
 
 1. **Introduction to Spring Batch**:
    - Spring Batch offers a framework for efficient batch processing.
